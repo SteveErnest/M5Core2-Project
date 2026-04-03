@@ -1,3 +1,5 @@
+//If you like this project, consider starring! ⭐
+
 #include<Arduino.h>
 #include <M5Core2.h>
 
