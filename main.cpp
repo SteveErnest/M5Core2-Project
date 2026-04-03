@@ -1,4 +1,4 @@
-//If you like this project, consider starring! ⭐
+//If you like this project, consider starring on GitHub! ⭐
 
 #include<Arduino.h>
 #include <M5Core2.h>
